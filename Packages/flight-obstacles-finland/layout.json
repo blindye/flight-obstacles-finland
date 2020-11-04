@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "path": "Business.json",
+      "size": 116,
+      "date": 132489017190000000
+    },
+    {
+      "path": "ContentInfo/flight-obstacles-finland/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132489017190000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 320,
+      "date": 132489075661165503
+    },
+    {
+      "path": "scenery/global/scenery/fin-obst-modelLib.BGL",
+      "size": 1853082,
+      "date": 132489076359481745
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/EXEL.PNG.DDS",
+      "size": 1398256,
+      "date": 132489076357581300
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/EXEL.PNG.DDS.json",
+      "size": 119,
+      "date": 132489076357531288
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LENTOESTEET.PNG.DDS",
+      "size": 1398256,
+      "date": 132489076358751581
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LENTOESTEET.PNG.DDS.json",
+      "size": 119,
+      "date": 132489076358701570
+    },
+    {
+      "path": "scenery/world/scenery/flight-obstacles-finland-sce.bgl",
+      "size": 689,
+      "date": 132489071355122963
+    }
+  ]
+}

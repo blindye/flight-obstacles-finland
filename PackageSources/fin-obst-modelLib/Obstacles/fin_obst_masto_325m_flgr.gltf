@@ -1,0 +1,1432 @@
+{
+    "asset" : {
+        "copyright" : "Tatu Kantomaa",
+        "extensions" : {
+            "ASOBO_normal_map_convention" : {
+                "tangent_space_convention" : "DirectX"
+            }
+        },
+        "generator" : "Extended Khronos glTF Blender I/O v1.0.0",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "ASOBO_normal_map_convention",
+        "ASOBO_macro_light"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "extras" : {
+                "glTF2ExportSettings" : {
+                    "export_copyright" : "Tatu Kantomaa",
+                    "export_extras" : 1,
+                    "export_generate_guid" : 1,
+                    "export_texture_dir" : "../texture",
+                    "export_xml" : 1,
+                    "export_xml_file" : "fin_obst_masto_325m_flgr.xml",
+                    "use_selection" : 1
+                },
+                "msfs_guid" : "{93842015-8fdc-47c5-4508-48219d632c9d}"
+            },
+            "name" : "Scene",
+            "nodes" : [
+                24
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.0008763822843320668,
+                        0
+                    ],
+                    "intensity" : 400,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 30,
+                    "flash_duration" : 0.5,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_flash_frequency" : 30,
+                "msfs_light_day_night_cycle" : 1,
+                "msfs_light_flash_duration" : 0.5,
+                "msfs_light_flash_phase" : 0,
+                "msfs_light_rotation_speed" : 0
+            },
+            "name" : "AOPoint",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                1.7999999523162842,
+                0,
+                0
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.0008763822843320668,
+                        0
+                    ],
+                    "intensity" : 400,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 30,
+                    "flash_duration" : 0.5,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_flash_frequency" : 30,
+                "msfs_light_day_night_cycle" : 1,
+                "msfs_light_flash_duration" : 0.5,
+                "msfs_light_flash_phase" : 0,
+                "msfs_light_rotation_speed" : 0
+            },
+            "name" : "AOPoint.001",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                -1.7999999523162842,
+                0,
+                0
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.0008763822843320668,
+                        0
+                    ],
+                    "intensity" : 400,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 30,
+                    "flash_duration" : 0.5,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_flash_frequency" : 30,
+                "msfs_light_day_night_cycle" : 1,
+                "msfs_light_flash_duration" : 0.5,
+                "msfs_light_flash_phase" : 0,
+                "msfs_light_rotation_speed" : 0
+            },
+            "name" : "AOPoint.002",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0,
+                0,
+                -1.7999999523162842
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.0008763822843320668,
+                        0
+                    ],
+                    "intensity" : 400,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 30,
+                    "flash_duration" : 0.5,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_flash_frequency" : 30,
+                "msfs_light_day_night_cycle" : 1,
+                "msfs_light_flash_duration" : 0.5,
+                "msfs_light_flash_phase" : 0,
+                "msfs_light_rotation_speed" : 0
+            },
+            "name" : "AOPoint.003",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0,
+                0,
+                1.7999999523162842
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.0008763822843320668,
+                        0
+                    ],
+                    "intensity" : 400,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 30,
+                    "flash_duration" : 0.5,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_flash_frequency" : 30,
+                "msfs_light_day_night_cycle" : 1,
+                "msfs_light_flash_duration" : 0.5,
+                "msfs_light_flash_phase" : 0,
+                "msfs_light_rotation_speed" : 0
+            },
+            "name" : "AOPoint.004",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0,
+                1.7999999523162842,
+                0
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.0008763822843320668,
+                        0
+                    ],
+                    "intensity" : 400,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 30,
+                    "flash_duration" : 0.5,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_flash_frequency" : 30,
+                "msfs_light_day_night_cycle" : 1,
+                "msfs_light_flash_duration" : 0.5,
+                "msfs_light_flash_phase" : 0,
+                "msfs_light_rotation_speed" : 0
+            },
+            "name" : "AOPoint.005",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                1.7999999523162842,
+                0,
+                0
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.0008763822843320668,
+                        0
+                    ],
+                    "intensity" : 400,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 30,
+                    "flash_duration" : 0.5,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_flash_frequency" : 30,
+                "msfs_light_day_night_cycle" : 1,
+                "msfs_light_flash_duration" : 0.5,
+                "msfs_light_flash_phase" : 0,
+                "msfs_light_rotation_speed" : 0
+            },
+            "name" : "AOPoint.006",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                -1.7999999523162842,
+                0,
+                0
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.0008763822843320668,
+                        0
+                    ],
+                    "intensity" : 400,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 30,
+                    "flash_duration" : 0.5,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_flash_frequency" : 30,
+                "msfs_light_day_night_cycle" : 1,
+                "msfs_light_flash_duration" : 0.5,
+                "msfs_light_flash_phase" : 0,
+                "msfs_light_rotation_speed" : 0
+            },
+            "name" : "AOPoint.007",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0,
+                0,
+                -1.7999999523162842
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.0008763822843320668,
+                        0
+                    ],
+                    "intensity" : 400,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 30,
+                    "flash_duration" : 0.5,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_flash_frequency" : 30,
+                "msfs_light_day_night_cycle" : 1,
+                "msfs_light_flash_duration" : 0.5,
+                "msfs_light_flash_phase" : 0,
+                "msfs_light_rotation_speed" : 0
+            },
+            "name" : "AOPoint.008",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0,
+                0,
+                1.7999999523162842
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.0008763822843320668,
+                        0
+                    ],
+                    "intensity" : 400,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 30,
+                    "flash_duration" : 0.5,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_flash_frequency" : 30,
+                "msfs_light_day_night_cycle" : 1,
+                "msfs_light_flash_duration" : 0.5,
+                "msfs_light_flash_phase" : 0,
+                "msfs_light_rotation_speed" : 0
+            },
+            "name" : "AOPoint.009",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0,
+                1.7999999523162842,
+                0
+            ]
+        },
+        {
+            "children" : [
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "mesh" : 0,
+            "name" : "Icosphere.001",
+            "scale" : [
+                1.6666665077209473,
+                1.6666665077209473,
+                1.6666665077209473
+            ],
+            "translation" : [
+                5.7925262451171875,
+                -6.103515625e-05,
+                0
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.0008763822843320668,
+                        0
+                    ],
+                    "intensity" : 100,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 30,
+                    "flash_duration" : 0.5,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_flash_frequency" : 30,
+                "msfs_light_day_night_cycle" : 1,
+                "msfs_light_flash_duration" : 0.5,
+                "msfs_light_flash_phase" : 0,
+                "msfs_light_rotation_speed" : 0
+            },
+            "name" : "AOPoint.010",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                1.7999999523162842,
+                0,
+                0
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.0008763822843320668,
+                        0
+                    ],
+                    "intensity" : 100,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 30,
+                    "flash_duration" : 0.5,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_flash_frequency" : 30,
+                "msfs_light_day_night_cycle" : 1,
+                "msfs_light_flash_duration" : 0.5,
+                "msfs_light_flash_phase" : 0,
+                "msfs_light_rotation_speed" : 0
+            },
+            "name" : "AOPoint.011",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                -1.7999999523162842,
+                0,
+                0
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.0008763822843320668,
+                        0
+                    ],
+                    "intensity" : 100,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 30,
+                    "flash_duration" : 0.5,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_flash_frequency" : 30,
+                "msfs_light_day_night_cycle" : 1,
+                "msfs_light_flash_duration" : 0.5,
+                "msfs_light_flash_phase" : 0,
+                "msfs_light_rotation_speed" : 0
+            },
+            "name" : "AOPoint.012",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0,
+                0,
+                -1.7999999523162842
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.0008763822843320668,
+                        0
+                    ],
+                    "intensity" : 100,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 30,
+                    "flash_duration" : 0.5,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_flash_frequency" : 30,
+                "msfs_light_day_night_cycle" : 1,
+                "msfs_light_flash_duration" : 0.5,
+                "msfs_light_flash_phase" : 0,
+                "msfs_light_rotation_speed" : 0
+            },
+            "name" : "AOPoint.013",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0,
+                0,
+                1.7999999523162842
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.0008763822843320668,
+                        0
+                    ],
+                    "intensity" : 100,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 30,
+                    "flash_duration" : 0.5,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_flash_frequency" : 30,
+                "msfs_light_day_night_cycle" : 1,
+                "msfs_light_flash_duration" : 0.5,
+                "msfs_light_flash_phase" : 0,
+                "msfs_light_rotation_speed" : 0
+            },
+            "name" : "AOPoint.014",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0,
+                1.7999999523162842,
+                0
+            ]
+        },
+        {
+            "children" : [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "mesh" : 1,
+            "name" : "Icosphere.002",
+            "scale" : [
+                1.6666665077209473,
+                1.6666665077209473,
+                1.6666665077209473
+            ],
+            "translation" : [
+                8.380693435668945,
+                -394.443603515625,
+                5.516350746154785
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.0008763822843320668,
+                        0
+                    ],
+                    "intensity" : 100,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 30,
+                    "flash_duration" : 0.5,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_flash_frequency" : 30,
+                "msfs_light_day_night_cycle" : 1,
+                "msfs_light_flash_duration" : 0.5,
+                "msfs_light_flash_phase" : 0,
+                "msfs_light_rotation_speed" : 0
+            },
+            "name" : "AOPoint.015",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                1.7999999523162842,
+                0,
+                0
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.0008763822843320668,
+                        0
+                    ],
+                    "intensity" : 100,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 30,
+                    "flash_duration" : 0.5,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_flash_frequency" : 30,
+                "msfs_light_day_night_cycle" : 1,
+                "msfs_light_flash_duration" : 0.5,
+                "msfs_light_flash_phase" : 0,
+                "msfs_light_rotation_speed" : 0
+            },
+            "name" : "AOPoint.016",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                -1.7999999523162842,
+                0,
+                0
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.0008763822843320668,
+                        0
+                    ],
+                    "intensity" : 100,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 30,
+                    "flash_duration" : 0.5,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_flash_frequency" : 30,
+                "msfs_light_day_night_cycle" : 1,
+                "msfs_light_flash_duration" : 0.5,
+                "msfs_light_flash_phase" : 0,
+                "msfs_light_rotation_speed" : 0
+            },
+            "name" : "AOPoint.017",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0,
+                0,
+                -1.7999999523162842
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.0008763822843320668,
+                        0
+                    ],
+                    "intensity" : 100,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 30,
+                    "flash_duration" : 0.5,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_flash_frequency" : 30,
+                "msfs_light_day_night_cycle" : 1,
+                "msfs_light_flash_duration" : 0.5,
+                "msfs_light_flash_phase" : 0,
+                "msfs_light_rotation_speed" : 0
+            },
+            "name" : "AOPoint.018",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0,
+                0,
+                1.7999999523162842
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        0.0008763822843320668,
+                        0
+                    ],
+                    "intensity" : 100,
+                    "cone_angle" : 360,
+                    "has_simmetry" : true,
+                    "flash_frequency" : 30,
+                    "flash_duration" : 0.5,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : true
+                }
+            },
+            "extras" : {
+                "msfs_light_has_symmetry" : 1,
+                "msfs_light_flash_frequency" : 30,
+                "msfs_light_day_night_cycle" : 1,
+                "msfs_light_flash_duration" : 0.5,
+                "msfs_light_flash_phase" : 0,
+                "msfs_light_rotation_speed" : 0
+            },
+            "name" : "AOPoint.019",
+            "rotation" : [
+                0.7071067690849304,
+                0,
+                0,
+                0.7071068286895752
+            ],
+            "translation" : [
+                0,
+                1.7999999523162842,
+                0
+            ]
+        },
+        {
+            "children" : [
+                17,
+                18,
+                19,
+                20,
+                21
+            ],
+            "mesh" : 2,
+            "name" : "Icosphere.003",
+            "scale" : [
+                1.6666665077209473,
+                1.6666665077209473,
+                1
+            ],
+            "translation" : [
+                8.380693435668945,
+                -394.443603515625,
+                -5.4894280433654785
+            ]
+        },
+        {
+            "children" : [
+                0,
+                1,
+                2,
+                3,
+                4,
+                10,
+                16,
+                22
+            ],
+            "mesh" : 3,
+            "name" : "Icosphere",
+            "scale" : [
+                0.5,
+                0.5,
+                0.5
+            ],
+            "translation" : [
+                -0.647167980670929,
+                -29.405731201171875,
+                3.5054363252129406e-06
+            ]
+        },
+        {
+            "children" : [
+                23
+            ],
+            "mesh" : 4,
+            "name" : "Mastot_200m",
+            "translation" : [
+                0,
+                321.17791748046875,
+                0
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "alphaMode" : "BLEND",
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "extras" : {
+                "msfs_material_mode" : 1,
+                "msfs_albedo_texture" : {
+                    "name" : "lentoesteet.png",
+                    "type" : "Image"
+                },
+                "msfs_show_tint" : 1,
+                "msfs_show_sss_color" : 0,
+                "msfs_show_glass_parameters" : 0,
+                "msfs_show_decal_parameters" : 0,
+                "msfs_show_fresnel_parameters" : 0,
+                "msfs_show_parallax_parameters" : 0,
+                "msfs_show_geo_decal_parameters" : 0,
+                "msfs_show_albedo" : 1,
+                "msfs_show_metallic" : 1,
+                "msfs_show_normal" : 1,
+                "msfs_show_emissive" : 1,
+                "msfs_show_detail_albedo" : 1,
+                "msfs_show_detail_metallic" : 1,
+                "msfs_show_detail_normal" : 1,
+                "msfs_show_blend_mask" : 1,
+                "msfs_show_anisotropic_direction" : 0,
+                "msfs_show_clearcoat" : 0,
+                "msfs_show_behind_glass" : 0,
+                "msfs_show_blend_mode" : 1,
+                "msfs_show_draworder" : 1,
+                "msfs_show_no_cast_shadow" : 1,
+                "msfs_show_double_sided" : 1,
+                "msfs_show_responsive_aa" : 0,
+                "msfs_show_day_night_cycle" : 1,
+                "msfs_show_collision_material" : 1,
+                "msfs_show_road_material" : 1,
+                "msfs_show_ao_use_uv2" : 1,
+                "msfs_show_uv_clamp" : 1,
+                "msfs_show_alpha_cutoff" : 1,
+                "msfs_show_blend_threshold" : 1,
+                "msfs_double_sided" : 1,
+                "msfs_blend_mode" : 2
+            },
+            "name" : "$Material_1",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 0,
+                    "texCoord" : 0
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "alphaMode" : "BLEND",
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "extras" : {
+                "msfs_material_mode" : 1,
+                "msfs_albedo_texture" : {
+                    "name" : "exel.png",
+                    "type" : "Image"
+                },
+                "msfs_show_tint" : 1,
+                "msfs_show_sss_color" : 0,
+                "msfs_show_glass_parameters" : 0,
+                "msfs_show_decal_parameters" : 0,
+                "msfs_show_fresnel_parameters" : 0,
+                "msfs_show_parallax_parameters" : 0,
+                "msfs_show_geo_decal_parameters" : 0,
+                "msfs_show_albedo" : 1,
+                "msfs_show_metallic" : 1,
+                "msfs_show_normal" : 1,
+                "msfs_show_emissive" : 1,
+                "msfs_show_detail_albedo" : 1,
+                "msfs_show_detail_metallic" : 1,
+                "msfs_show_detail_normal" : 1,
+                "msfs_show_blend_mask" : 1,
+                "msfs_show_anisotropic_direction" : 0,
+                "msfs_show_clearcoat" : 0,
+                "msfs_show_behind_glass" : 0,
+                "msfs_show_blend_mode" : 1,
+                "msfs_show_draworder" : 1,
+                "msfs_show_no_cast_shadow" : 1,
+                "msfs_show_double_sided" : 1,
+                "msfs_show_responsive_aa" : 0,
+                "msfs_show_day_night_cycle" : 1,
+                "msfs_show_collision_material" : 1,
+                "msfs_show_road_material" : 1,
+                "msfs_show_ao_use_uv2" : 1,
+                "msfs_show_uv_clamp" : 1,
+                "msfs_show_alpha_cutoff" : 1,
+                "msfs_show_blend_threshold" : 1,
+                "msfs_double_sided" : 1,
+                "msfs_blend_mode" : 2
+            },
+            "name" : "$Material_0",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 1,
+                    "texCoord" : 0
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Icosphere.003",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Icosphere.004",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "NORMAL" : 5,
+                        "TEXCOORD_0" : 6
+                    },
+                    "indices" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Icosphere.005",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 7,
+                        "NORMAL" : 8,
+                        "TEXCOORD_0" : 9
+                    },
+                    "indices" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Icosphere.002",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 10,
+                        "NORMAL" : 11,
+                        "TEXCOORD_0" : 12
+                    },
+                    "indices" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Mastot_200m",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 13,
+                        "NORMAL" : 14,
+                        "TEXCOORD_0" : 15
+                    },
+                    "indices" : 16,
+                    "material" : 0
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 17,
+                        "NORMAL" : 18,
+                        "TEXCOORD_0" : 19
+                    },
+                    "indices" : 20,
+                    "material" : 1
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "source" : 0
+        },
+        {
+            "source" : 1
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "lentoesteet",
+            "uri" : "lentoesteet.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "exel",
+            "uri" : "exel.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 240,
+            "max" : [
+                0.9510578513145447,
+                1,
+                0.9999999403953552
+            ],
+            "min" : [
+                -0.9510578513145447,
+                -1,
+                -0.9999999403953552
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 240,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 240,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 240,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 240,
+            "max" : [
+                0.9510578513145447,
+                1,
+                0.9999999403953552
+            ],
+            "min" : [
+                -0.9510578513145447,
+                -1,
+                -0.9999999403953552
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 240,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 240,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5126,
+            "count" : 240,
+            "max" : [
+                0.9510578513145447,
+                1,
+                0.9999999403953552
+            ],
+            "min" : [
+                -0.9510578513145447,
+                -1,
+                -0.9999999403953552
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 8,
+            "componentType" : 5126,
+            "count" : 240,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 9,
+            "componentType" : 5126,
+            "count" : 240,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 10,
+            "componentType" : 5126,
+            "count" : 240,
+            "max" : [
+                0.9510578513145447,
+                1,
+                0.9999999403953552
+            ],
+            "min" : [
+                -0.9510578513145447,
+                -1,
+                -0.9999999403953552
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 11,
+            "componentType" : 5126,
+            "count" : 240,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 12,
+            "componentType" : 5126,
+            "count" : 240,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 13,
+            "componentType" : 5126,
+            "count" : 8001,
+            "max" : [
+                80.02625274658203,
+                0.02167999930679798,
+                69.31503295898438
+            ],
+            "min" : [
+                -40.030941009521484,
+                -330.7174987792969,
+                -69.31504821777344
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 14,
+            "componentType" : 5126,
+            "count" : 8001,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 15,
+            "componentType" : 5126,
+            "count" : 8001,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 16,
+            "componentType" : 5123,
+            "count" : 18948,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 17,
+            "componentType" : 5126,
+            "count" : 723,
+            "max" : [
+                1.570739984512329,
+                -21.011690139770508,
+                1.3602999448776245
+            ],
+            "min" : [
+                -0.7853699922561646,
+                -321.0116882324219,
+                -1.3602999448776245
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 18,
+            "componentType" : 5126,
+            "count" : 723,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 19,
+            "componentType" : 5126,
+            "count" : 723,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 20,
+            "componentType" : 5123,
+            "count" : 828,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 2880,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2880,
+            "byteOffset" : 2880
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1920,
+            "byteOffset" : 5760
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 480,
+            "byteOffset" : 7680
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2880,
+            "byteOffset" : 8160
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2880,
+            "byteOffset" : 11040
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1920,
+            "byteOffset" : 13920
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2880,
+            "byteOffset" : 15840
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2880,
+            "byteOffset" : 18720
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1920,
+            "byteOffset" : 21600
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2880,
+            "byteOffset" : 23520
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2880,
+            "byteOffset" : 26400
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1920,
+            "byteOffset" : 29280
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 96012,
+            "byteOffset" : 31200
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 96012,
+            "byteOffset" : 127212
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 64008,
+            "byteOffset" : 223224
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 37896,
+            "byteOffset" : 287232
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 8676,
+            "byteOffset" : 325128
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 8676,
+            "byteOffset" : 333804
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 5784,
+            "byteOffset" : 342480
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1656,
+            "byteOffset" : 348264
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 349920,
+            "uri" : "fin_obst_masto_325m_flgr.bin"
+        }
+    ]
+}
